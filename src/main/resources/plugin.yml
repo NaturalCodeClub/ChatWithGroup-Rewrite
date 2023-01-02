@@ -1,0 +1,4 @@
+name: ChatWithGroup
+version: '${project.version}'
+main: org.ncc.github.chatwithgroup.ChatWithGroup
+api-version: 1.19
